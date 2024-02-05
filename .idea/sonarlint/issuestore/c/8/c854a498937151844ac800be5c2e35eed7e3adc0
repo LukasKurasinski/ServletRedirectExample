@@ -1,0 +1,18 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(ì“’ëÿÿÿÿÿ8“¯ËÍ×1
+L
+java:S3740"/Provide the parametrized type for this generic.(½—Ë¹8“¯ËÍ×1
+L
+java:S3740"/Provide the parametrized type for this generic.(Ä¸„œ8“¯ËÍ×1
+Ž
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(½—Ë¹8”¯ËÍ×1
+‚
+java:S1319"eThe type of "data" should be an interface such as "List" rather than the implementation "LinkedList".(Ä¸„œ8•¯ËÍ×1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙÅ™Îùÿÿÿÿ8–¯ËÍ×1
+ž
+java:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£Ã–ƒ8˜¯ËÍ×1
+9
+java:S1116
+"Remove this empty statement.(£Ã–ƒ8š¯ËÍ×1

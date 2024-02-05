@@ -1,0 +1,29 @@
+
+g	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8úÔ¡Ô×1
+g	java:S112u"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8úÔ¡Ô×1
+{
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ÒÑÿÿÿÿÿ8ûÔ¡Ô×1
+
+java:S1319""qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(şÄê×8üÔ¡Ô×1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙÅ™Îùÿÿÿÿ8ıÔ¡Ô×1
+j
+java:S2095B"HUse try-with-resources or close this "Connection" in a "finally" clause.(´„Õİüÿÿÿÿ8ˆ×¡Ô×1
+i
+java:S2095C"GUse try-with-resources or close this "Statement" in a "finally" clause.(íñéşÿÿÿÿ8ˆ×¡Ô×1
+q
+java:S2095~"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(§ÖûÌÿÿÿÿÿ8ˆ×¡Ô×1
+j
+java:S2095|"HUse try-with-resources or close this "Connection" in a "finally" clause.(´„Õİüÿÿÿÿ8ˆ×¡Ô×1
+C
+java:S1170"!Make this final field static too.(†£èúÿÿÿÿ8ˆ×¡Ô×1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(†£èúÿÿÿÿ8Œ×¡Ô×1
+9
+java:S1116"Remove this empty statement.(‘Šƒõ8×¡Ô×1
+L	java:S106,"+Replace this use of System.out by a logger.(Ñ­¿¥şÿÿÿÿ8‘×¡Ô×1
+H
+java:S11684"+Return an empty collection instead of null.(¥¹ï8“×¡Ô×1
+L	java:S106Y"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8—×¡Ô×1
+M	java:S106"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8œ×¡Ô×1
+Y	java:S125‚"<This block of commented-out lines of code should be removed.(ÈÌş³8œ×¡Ô×1
+M	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8×¡Ô×1
