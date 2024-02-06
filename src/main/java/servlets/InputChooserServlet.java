@@ -13,9 +13,11 @@ import java.util.LinkedList;
 @WebServlet(name = "inputChooserServlet", urlPatterns = "/inputChooser")
 public class InputChooserServlet extends HttpServlet {
 
-    String address="";
+
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        String address="";
+
         System.out.println("we've posted");
 
         if(req.getParameter("signIn") != null){

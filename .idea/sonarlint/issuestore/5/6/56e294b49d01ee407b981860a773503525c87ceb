@@ -6,12 +6,12 @@ java:S2293?"YReplace the type specification in this constructor call with the d
 
 java:S1319""qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(şÄê×8üÔ¡Ô×1
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙÅ™Îùÿÿÿÿ8ıÔ¡Ô×1
-j
-java:S2095B"HUse try-with-resources or close this "Connection" in a "finally" clause.(´„Õİüÿÿÿÿ8ˆ×¡Ô×1
 i
 java:S2095C"GUse try-with-resources or close this "Statement" in a "finally" clause.(íñéşÿÿÿÿ8ˆ×¡Ô×1
 q
 java:S2095~"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(§ÖûÌÿÿÿÿÿ8ˆ×¡Ô×1
+j
+java:S2095B"HUse try-with-resources or close this "Connection" in a "finally" clause.(´„Õİüÿÿÿÿ8ˆ×¡Ô×1
 j
 java:S2095|"HUse try-with-resources or close this "Connection" in a "finally" clause.(´„Õİüÿÿÿÿ8ˆ×¡Ô×1
 C

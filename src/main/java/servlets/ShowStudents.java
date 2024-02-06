@@ -24,6 +24,6 @@ public class ShowStudents extends HttpServlet {
 
         req.getSession().setAttribute("usersBean", usersBean);
         System.out.println(((UsersBean)(req.getSession().getAttribute("usersBean"))).getData());
-        req.getRequestDispatcher("showStudents.jsp").forward(req, resp);
+        req.getRequestDispatcher("JSP/showStudents.jsp").forward(req, resp);
     }
 }

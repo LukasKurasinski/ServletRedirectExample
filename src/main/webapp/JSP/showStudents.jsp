@@ -1,4 +1,5 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -7,6 +8,7 @@
     </head>
     <body>
         <h1>Hello World from Show Students!</h1>
+        <h3>${param.message}</h3>
     <table>
         <tr>
             <th>first name</th><th>last name</th>

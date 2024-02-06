@@ -6,7 +6,8 @@ import java.util.List;
 
 public class UsersBean implements Serializable {
 
-    List<String[]> data = null;
+    private List<String[]> data = null;
+    private String fname;
 
     public UsersBean(){};
 
